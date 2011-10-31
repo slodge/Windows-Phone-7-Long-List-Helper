@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>WP7LongListSelectorHelper</id>
+    <version>1.0</version>
+    <title>Long List Helper for Windows Phone</title>
+    <authors>slodge</authors>
+    <owners>slodge</owners>
+    <licenseUrl>http://opensource.org/licenses/ms-pl.html</licenseUrl>
+    <projectUrl>https://github.com/slodge/Windows-Phone-7-Long-List-Helper</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides helper classes and extension methods to allow easy shaping of lEnumerable into groups for long list selectors (in the WP7 silverlight toolkit or in wp7 contrib)</description>
+	<dependencies>
+      <dependency id="SilverlightToolkitWP" version="4.2011.8.17" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src=".\..\Cirrious.LongList\bin\release\Cirrious.LongList.dll" target="lib\sl3-wp\Cirrious.LongList.dll" />
+    <file src=".\..\Cirrious.LongList\bin\release\Cirrious.LongList.pdb" target="lib\sl3-wp\Cirrious.LongList.pdb" />
+    <file src=".\..\ReadMe.md" target="content/ReadMe.md" />
+  </files>
+</package>

@@ -1,3 +1,13 @@
+## NuGet
+
+The release package is published to:
+
+http://nuget.org/List/Packages/WP7LongListSelectorHelper
+
+So you can fetch this using:
+
+PM> Install-Package WP7LongListSelectorHelper
+
 ## Long List helper classes
 
 Cirrious.LongList provides helper classes for use with the LongListSelector from the Silverlight Toolkit for Windows Phone (Mango)
