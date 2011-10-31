@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongListApp", "LongListApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cirrious.LongList", "..\Cirrious.LongList\Cirrious.LongList.csproj", "{5B8F35EC-5A52-4364-846C-CF4C842678DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteMe", "..\DeleteMe\DeleteMe.csproj", "{D5087B6B-65A0-4D24-80B5-F17E3C83B232}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5B8F35EC-5A52-4364-846C-CF4C842678DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B8F35EC-5A52-4364-846C-CF4C842678DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B8F35EC-5A52-4364-846C-CF4C842678DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5087B6B-65A0-4D24-80B5-F17E3C83B232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5087B6B-65A0-4D24-80B5-F17E3C83B232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5087B6B-65A0-4D24-80B5-F17E3C83B232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5087B6B-65A0-4D24-80B5-F17E3C83B232}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
